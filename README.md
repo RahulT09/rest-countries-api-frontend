@@ -70,7 +70,7 @@ Edit
 
 
 ```bash
-git clone https://github.com/your-username/rest-countries-app.git
+git clone https://github.com/RahulT09/rest-countries-api-frontend.git
 
 
 

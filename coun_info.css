@@ -59,6 +59,7 @@ body.dark{
     row-gap: 12px;
     column-gap: 114px;
     max-height: 180px;
+    overflow: hidden;
 }
 
 .borders{
@@ -125,13 +126,13 @@ img#real-image {
 } */
 
 
-@media (max-width: 840px) {
+@media (max-width: 900px) {
     .country-detail {
         flex-direction: column;
         align-items: flex-start;
     }
     .h3{
-       .h3 {
+       
         font-size: large;
         letter-spacing: 1px;
     }

@@ -4,6 +4,10 @@ A responsive web app that fetches and displays data from the **REST Countries AP
 
 ---
 
+## Live Demo
+https://rest-countries-api-frontend-theta.vercel.app/
+---
+
 ## 🎬 Demo Video
 
 https://github.com/user-attachments/assets/8d83d947-c94a-48d0-9983-28a922bb08ee

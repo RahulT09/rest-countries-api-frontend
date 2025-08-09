@@ -130,11 +130,20 @@ img#real-image {
         flex-direction: column;
         align-items: flex-start;
     }
+    .h3{
+       .h3 {
+        font-size: large;
+        letter-spacing: 1px;
+    }
+    .mode{
+        font-size: small;
+    
+    }
 
     .country-detail img {
-        width: 100%;
+        width: 90%;
         margin-top: 20px;
-        margin: 0;
+        margin: 10px auto;
         
     }
 
@@ -153,7 +162,16 @@ img#real-image {
         margin-left: 20px;
     }
 
+    .back-btn{
+        padding: 6px 13px;
+    }
+
+    .back-text{
+        display: none;
+    }
+
     .bck {
+        
         margin-left: 10px;
         margin-bottom: 20px;
     }

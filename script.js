@@ -61,11 +61,11 @@ renderCountries(filtered)
 })
 
 themeSwitch.addEventListener('click',()=>{
-    const isDark = document.body.classList.toggle('dark');
+  const isDark = document.body.classList.toggle('dark');
 
-  if (isDark) {
-    themeSwitch.innerHTML = '<p><i class="fa-regular fa-sun"></i> Light Mode</p>';
-  } else {
-    themeSwitch.innerHTML = '<p> <i class="fa-regular fa-moon"></i> Dark Mode</p>';
-  }
+if (isDark) {
+  themeSwitch.innerHTML = '<p><i class="fa-regular fa-sun"></i> Light Mode</p>';
+} else {
+  themeSwitch.innerHTML = '<p> <i class="fa-regular fa-moon"></i> Dark Mode</p>';
+}
 });

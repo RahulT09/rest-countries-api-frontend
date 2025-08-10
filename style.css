@@ -231,7 +231,7 @@ a{
         max-width: 300px;
     }
 
-    .search-wrapper input i{
+    .fa-magnifying-glass{
        display: none;
     }
     
@@ -285,6 +285,9 @@ a{
     .search-wrapper input {
         padding-left: 30px;
     }
+    .fa-magnifying-glass{
+       display: none;
+    }
     
     .countries-container {
         gap: 20px;
@@ -306,6 +309,9 @@ a{
     .search-wrapper {
         flex-direction: row;
         justify-content: center;
+    }
+    .fa-magnifying-glass{
+       display: none;
     }
     
     .countries-container {

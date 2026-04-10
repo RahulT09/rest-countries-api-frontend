@@ -2,7 +2,7 @@
 
 A responsive web app that fetches and displays data from the **REST Countries API**. Built with HTML, CSS, and JavaScript, this project allows users to explore information about countries across the world.      
 
----
+---  
   
 ## Live Demo
 https://rest-countries-api-frontend-theta.vercel.app/
